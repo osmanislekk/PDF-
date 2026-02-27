@@ -1,0 +1,30 @@
+# Flutter and Dart specific
+packages/  
+.dart_tool/  
+.buildlog  
+.pub-cache/  
+.flutter-plugins  
+.flutter-plugins-dependencies  
+
+# Android specific
+android/app/debug/  
+android/app/profile/  
+android/local.properties  
+android/.gradle/  
+.android/  
+
+# iOS specific
+ios/Flutter/Flutter.framework  
+ios/Flutter/Flutter.podspec  
+ios/Pods/  
+ios/Runner.xcworkspace/  
+ios/Flutter/App.framework  
+
+# Build outputs
+build/  
+
+# File system
+*.log  
+*.tmp  
+*.swp  
+*.swo  
